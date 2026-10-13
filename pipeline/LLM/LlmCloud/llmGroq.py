@@ -4,6 +4,7 @@ import os
 from groq import Groq
 # pyrefly: ignore [missing-import]
 from ddgs import DDGS
+# pyrefly: ignore [missing-import]
 from dotenv import load_dotenv
 load_dotenv()
 
