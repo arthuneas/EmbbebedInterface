@@ -103,3 +103,4 @@ groq
 google-genai
 ddgs
 python-dotenv
+edge-tts==7.3.1
